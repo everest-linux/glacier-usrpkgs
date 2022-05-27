@@ -12,3 +12,5 @@ User packages should contain the following:
 - pkgname-pkginfo.json (1 extra line reading `"is-usrpkg:" "yes",`)
 
 A user package should create all the same files that a regular Glacier package would
+
+NOTICE: User packages are not tested for stability or security by the Everest team, any user packages you install are solely your responsibility.
