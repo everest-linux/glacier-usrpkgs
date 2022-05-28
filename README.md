@@ -14,3 +14,13 @@ User packages should contain the following:
 A user package should create all the same files that a regular Glacier package would
 
 NOTICE: User packages are not tested for stability or security by the Everest team, any user packages you install are solely your responsibility.
+
+---
+
+**HOW TO BUILD USRPKGS**
+
+`wget https://github.com/everest-linux/glacier-usrpkgs/raw/main/usrpkgs/pkgname`
+
+`cd pkgname`
+
+`./usrbuild.sh`
