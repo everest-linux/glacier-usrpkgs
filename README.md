@@ -19,7 +19,7 @@ NOTICE: User packages are not tested for stability or security by the Everest te
 
 **HOW TO BUILD USRPKGS**
 
-`wget https://github.com/everest-linux/glacier-usrpkgs/raw/main/usrpkgs/pkgname`
+`wget https://github.com/everest-linux/glacier-usrpkgs/raw/main/usrpkgs/pkgname.tar.gz`
 
 `cd pkgname`
 
