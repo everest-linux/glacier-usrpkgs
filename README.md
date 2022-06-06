@@ -21,6 +21,8 @@ NOTICE: User packages are not tested for stability or security by the Everest te
 
 `wget https://github.com/everest-linux/glacier-usrpkgs/raw/main/usrpkgs/pkgname.tar.gz`
 
+`tar xvf pkgname.tar.gz`
+
 `cd pkgname`
 
 `./usrbuild.sh`
